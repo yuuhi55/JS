@@ -1,0 +1,28 @@
+.random ,.time ,.record {
+    border: solid;
+}
+
+.title ,.random ,.time {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bd {
+    margin-top: 4%;
+}
+
+.random {
+    height: 100px;
+    font-size: xx-large;
+    font-weight: bold;
+    letter-spacing: 5px;
+}
+
+.time,.record {
+    height: 200px;
+}
+
+.time {
+    font-size: 100px;
+}
